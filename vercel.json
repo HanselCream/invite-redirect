@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/maggie",
+      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c",
+      "permanent": true
+    }
+  ]
+}
