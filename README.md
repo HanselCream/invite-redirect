@@ -1,5 +1,6 @@
 | Redirect Type                     | URL to Open                                                       | Redirects To                                                                        |
 | --------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **HZ DIGITAL INVITATION FORM**    | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM`       | → `https://hzdigitalinvite.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b` |
 | **Proposal – Athena & Zee Radam** | `https://invite-redirect.vercel.app/PROPOSAL-athena-zee-radam`    | → `https://hzdigitalinvite.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3` |
 | **RSVP – Athena & Zee Radam**     | `https://invite-redirect.vercel.app/RSVP-athena-zee-radam`        | → `https://hzdigitalinvite.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304` |
 | **Proposal – Patricia (Dec 13)**  | `https://invite-redirect.vercel.app/PROPOSAL-patricia-december13` | → `https://hzdigitalinvite.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c` |
