@@ -24,6 +24,11 @@
       "source": "/RSVP-mal-december28",
       "destination": "https://hzdigitalinvite.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2",
       "permanent": true
+    },
+    {
+      "source": "/RSVP-matthew-november15",
+      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c",
+      "permanent": true
     }
   ]
 }
