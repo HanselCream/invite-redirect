@@ -34,7 +34,13 @@
       "source": "/RSVP-matthew-november15",
       "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c",
       "permanent": true
+    },
+    {
+      "source": "/PROPOSAL-December6",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3",
+      "permanent": true
     }
   ]
 }
+
 
