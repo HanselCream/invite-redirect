@@ -2,38 +2,39 @@
   "redirects": [
     {
       "source": "/PROPOSAL-athena-zee-radam",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3",
       "permanent": true
     },
     {
       "source": "/RSVP-athena-zee-radam",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304",
       "permanent": true
     },
     {
       "source": "/MASTER-HZ-DIGITAL-FORM",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b",
       "permanent": true
     },
     {
       "source": "/PROPOSAL-patricia-december13",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c",
       "permanent": true
     },
     {
       "source": "/RSVP-patricia-december13",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61",
       "permanent": true
     },
     {
       "source": "/RSVP-mal-december28",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2",
       "permanent": true
     },
     {
       "source": "/RSVP-matthew-november15",
-      "destination": "https://hzdigitalinvite.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c",
       "permanent": true
     }
   ]
 }
+
