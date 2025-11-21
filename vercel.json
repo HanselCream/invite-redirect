@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/HZ-FORM-GENERATE-IMAGE",
+      "destination": "https://hzdigitalinvitation.app.n8n.cloud/webhook/30108484-9b3e-4c89-888b-f854a1d6ca4f",
+      "permanent": true
+    },
+    {
       "source": "/PROPOSAL-athena-zee-radam",
       "destination": "https://hzdigitalinvitation.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3",
       "permanent": true
@@ -42,6 +47,7 @@
     }
   ]
 }
+
 
 
 
