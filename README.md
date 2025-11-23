@@ -16,6 +16,7 @@ This document outlines the available URL redirects for HZ Digital Invitation for
 | **RSVP – Mal (Dec 28)** | `https://invite-redirect.vercel.app/RSVP-mal-december28` | → `https://hzdigitalinvitation.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2` |
 | **RSVP – Matthew (Nov 15)** | `https://invite-redirect.vercel.app/RSVP-matthew-november15` | → `https://hzdigitalinvitation.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c` |
 | **RSVP – Ailene (Dec 6)** | `https://invite-redirect.vercel.app/PROPOSAL-Ailene-December6` | → `https://hzdigitalinvitation.app.n8n.cloud/form/928d502d-1f85-4158-be3e-e97121fb6d8b` |
+| **GODPARENTS- Rejika Sean (Dec 12)** | `https://invite-redirect.vercel.app/GODPARENTS-MaicoRej-December12` | → `https://hzdigitalinvitation.app.n8n.cloud/form/348e14af-6876-4954-9f61-190342005a62` |
 
 ## Usage
 
