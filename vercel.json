@@ -59,8 +59,14 @@
       "source": "/RSVP-MaicoRej-December12",
       "destination": "https://forms.gle/w6WzmGFqZMeFUKfv6",
       "permanent": true
+    },
+    {
+      "source": "/RSVP-Aki-January17",
+      "destination": "https://digitalinvitation.app.n8n.cloud/form/85638c0e-5fa0-43f7-99bd-ba9feee4a9df",
+      "permanent": true
     }
   ]
 }
+
 
 
