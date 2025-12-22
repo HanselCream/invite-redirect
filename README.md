@@ -8,7 +8,7 @@ This document outlines the available URL redirects for HZ Digital Invitation for
 | :--- | :--- | :--- |
 | **HZ WEBSITE** | `https://invite-redirect.vercel.app/hzdigitalinvitation` | → `https://hz-invitation-suite.vercel.app/` |
 | **HZ DIGITAL FORM IMAGE GENERATE** | `https://invite-redirect.vercel.app/HZ-FORM-GENERATE-IMAGE` | → `https://digitalinvitationhz.app.n8n.cloud/webhook/30108484-9b3e-4c89-888b-f854a1d6ca4f` |
-| **HZ DIGITAL INVITATION FORM** | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM` | → `https://digitalinvitationhz.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b` |
+| **HZ DIGITAL INVITATION FORM** | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM` | → `https://digitalinvitation.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b` |
 | **Proposal – Athena & Zee Radam** | `https://invite-redirect.vercel.app/PROPOSAL-athena-zee-radam` | → `https://digitalinvitationhz.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3` |
 | **RSVP – Athena & Zee Radam** | `https://invite-redirect.vercel.app/RSVP-athena-zee-radam` | → `https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304` |
 | **Proposal – Patricia (Dec 13)** | `https://invite-redirect.vercel.app/PROPOSAL-patricia-december13` | → `https://digitalinvitationhz.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c` |
