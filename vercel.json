@@ -64,9 +64,15 @@
       "source": "/RSVP-Aki-January17",
       "destination": "https://digitalinvitation.app.n8n.cloud/form/85638c0e-5fa0-43f7-99bd-ba9feee4a9df",
       "permanent": true
+    },
+    {
+      "source": "/Café-Staff-Interview",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header",
+      "permanent": true
     }
   ]
 }
+
 
 
 
