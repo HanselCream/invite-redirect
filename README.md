@@ -20,6 +20,7 @@ This document outlines the available URL redirects for HZ Digital Invitation for
 | **RSVP - Rejika Sean (Dec 12)** | `https://invite-redirect.vercel.app/RSVP-MaicoRej-December12` | → `https://digitalinvitationhz.app.n8n.cloud/form/1f0f2ec1-8c25-4195-a387-567a9403ea84` |
 | **RSVP - Aki (Jan 17)** | `https://invite-redirect.vercel.app/RSVP-Aki-January17` | → `https://hzzdigitalinvitation.app.n8n.cloud/form/85638c0e-5fa0-43f7-99bd-ba9feee4a9df` |
 | **OCEAN BREW - Café-Staff-Interview** | `https://invite-redirect.vercel.app/Cafe-Staff-Interview` | → `https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header` |
+| **RSVP - Amari (Feb 21, 2026)** | `https://invite-redirect.vercel.app/RSVP-Amari-February21-2026` | → `https://hzzdigitalinvitation.app.n8n.cloud/form/198b289e-d5e5-416e-9aba-bc735b12fa3e` |
 ## Usage
 
 Simply visit any of the "URL to Open" links above, and you will be automatically redirected to the corresponding HZ Digital Invitation form.
