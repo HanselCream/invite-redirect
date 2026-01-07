@@ -69,9 +69,15 @@
       "source": "/Cafe-Staff-Interview",
       "destination": "https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header",
       "permanent": true
+    },
+    {
+      "source": "/RSVP-Amari-February21-2026",
+      "destination": "https://hzzdigitalinvitation.app.n8n.cloud/form/198b289e-d5e5-416e-9aba-bc735b12fa3e",
+      "permanent": true
     }
   ]
 }
+
 
 
 
