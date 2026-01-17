@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/MASTER-HZ-DIGITAL-FORM",
+      "destination": "https://hhzzdigitalinvitation.app.n8n.cloud/form/2aed8ee0-6252-41aa-bfd5-5980c2a2cefd",
+      "permanent": true
+    },
+    {
       "source": "/HZ-FORM-GENERATE-IMAGE",
       "destination": "https://digitalinvitation.app.n8n.cloud/webhook-test/30108484-9b3e-4c89-888b-f854a1d6ca4f",
       "permanent": true
@@ -18,11 +23,6 @@
     {
       "source": "/RSVP-athena-zee-radam",
       "destination": "https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304",
-      "permanent": true
-    },
-    {
-      "source": "/MASTER-HZ-DIGITAL-FORM",
-      "destination": "https://hzzdigitalinvitation.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b",
       "permanent": true
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "source": "/RSVP-Aki-January17",
-      "destination": "https://hzzdigitalinvitation.app.n8n.cloud/form/85638c0e-5fa0-43f7-99bd-ba9feee4a9df",
+      "destination": "https://hhzzdigitalinvitation.app.n8n.cloud/form/b34c8d18-1a3b-4b6d-aa98-d229378365d8",
       "permanent": true
     },
     {
@@ -72,11 +72,12 @@
     },
     {
       "source": "/RSVP-Amari-February21-2026",
-      "destination": "https://hzzdigitalinvitation.app.n8n.cloud/form/198b289e-d5e5-416e-9aba-bc735b12fa3e",
+      "destination": "https://hhzzdigitalinvitation.app.n8n.cloud/form/bb1a1207-f028-470e-9060-0faac8e9e330",
       "permanent": true
     }
   ]
 }
+
 
 
 
