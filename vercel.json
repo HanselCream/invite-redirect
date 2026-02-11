@@ -75,8 +75,14 @@
       "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/a4e37008-8abf-4036-b40d-2e88c563fb93",
       "permanent": true
     }
+    {
+      "source": "/RSVP-Arielle-February22-2026",
+      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/3a3dfbdd-7d0c-4c3d-8015-77fff13b5593",
+      "permanent": true
+    }
   ]
 }
+
 
 
 
