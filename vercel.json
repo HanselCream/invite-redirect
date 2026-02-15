@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/ocean-brew-pos",
+      "destination": "https://ocean-brew-order-app.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/hzdigitalinvitation",
       "destination": "https://hz-invitation-suite.vercel.app/",
       "permanent": true
@@ -82,6 +87,7 @@
     }
   ]
 }
+
 
 
 
