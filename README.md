@@ -25,7 +25,7 @@ Redirect Type	URL to Open	Redirects To
 | **OCEAN BREW - Café-Staff-Interview** | `https://invite-redirect.vercel.app/Cafe-Staff-Interview` | → `https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header` |
 | **RSVP - Amari (Feb 21, 2026)** | `https://invite-redirect.vercel.app/RSVP-Amari-February21-2026` | → `https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3` |
 | **RSVP - Arielle (Feb 22, 2026)** | `https://invite-redirect.vercel.app/RSVP-Arielle-February22-2026` | → `https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7` |
-| **RSVP - Macryne (April 01, 2026)** | `https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e` |
+| **RSVP - Macryne (April 01, 2026)** | `https://invite-redirect.vercel.app//RSVP-Marcyne-April-01-2026` | → | `https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e` |
 
 ## Usage
 
