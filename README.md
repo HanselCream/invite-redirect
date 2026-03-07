@@ -1,37 +1,21 @@
-# URL Redirects Documentation
-
-This document outlines the available URL redirects for HZ Digital Invitation forms.
-
-## Available Redirects
-
-
-Redirect Type	URL to Open	Redirects To
-| Redirect Type | URL to Open | Redirects To |
-| :--- | :--- | :--- |
-| **OCEAN BREW POS** | `https://invite-redirect.vercel.app/ocean-brew-pos` | → `https://ocean-brew-order-app.vercel.app/` |
-| **HZ WEBSITE** | `https://invite-redirect.vercel.app/hzdigitalinvitation` | → `https://hz-invitation-suite.vercel.app/` |
-| **HZ WEBSITE** | `https://invite-redirect.vercel.app/macryne-18Birthday` | → `https://macryne-18Birthday.vercel.app/` |
-| **HZ DIGITAL FORM IMAGE GENERATE** | `https://invite-redirect.vercel.app/HZ-FORM-GENERATE-IMAGE` | → `https://digitalinvitation.app.n8n.cloud/webhook-test/30108484-9b3e-4c89-888b-f854a1d6ca4f` |
-| **HZ DIGITAL INVITATION FORM** | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM` | → `https://hhzzdigitalinvitation.app.n8n.cloud/form/2aed8ee0-6252-41aa-bfd5-5980c2a2cefd` |
-| **Proposal – Athena & Zee Radam** | `https://invite-redirect.vercel.app/PROPOSAL-athena-zee-radam` | → `https://hzzdigitalinvitation.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b` |
-| **RSVP – Athena & Zee Radam** | `https://invite-redirect.vercel.app/RSVP-athena-zee-radam` | → `https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304` |
-| **Proposal – Patricia (Dec 13)** | `https://invite-redirect.vercel.app/PROPOSAL-patricia-december13` | → `https://digitalinvitationhz.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c` |
-| **RSVP – Patricia (Dec 13)** | `https://invite-redirect.vercel.app/RSVP-patricia-december13` | → `https://digitalinvitationhz.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61` |
-| **RSVP – Mal (Dec 28)** | `https://invite-redirect.vercel.app/RSVP-mal-december28` | → `https://digitalinvitationhz.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2` |
-| **RSVP – Matthew (Nov 15)** | `https://invite-redirect.vercel.app/RSVP-matthew-november15` | → `https://digitalinvitationhz.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c` |
-| **RSVP – Ailene (Dec 6)** | `https://invite-redirect.vercel.app/PROPOSAL-Ailene-December6` | → `https://digitalinvitationhz.app.n8n.cloud/form/928d502d-1f85-4158-be3e-e97121fb6d8b` |
-| **GODPARENTS - Rejika Sean (Dec 12)** | `https://invite-redirect.vercel.app/GODPARENTS-MaicoRej-December12` | → `https://digitalinvitationhz.app.n8n.cloud/form/348e14af-6876-4954-9f61-190342005a62` |
-| **RSVP - Rejika Sean (Dec 12)** | `https://invite-redirect.vercel.app/RSVP-MaicoRej-December12` | → `https://digitalinvitationhz.app.n8n.cloud/form/1f0f2ec1-8c25-4195-a387-567a9403ea84` |
-| **RSVP - Aki (Jan 17)** | `https://invite-redirect.vercel.app/RSVP-Aki-January17` | → `https://hhzzdigitalinvitation.app.n8n.cloud/form/b34c8d18-1a3b-4b6d-aa98-d229378365d8` |
-| **OCEAN BREW - Café-Staff-Interview** | `https://invite-redirect.vercel.app/Cafe-Staff-Interview` | → `https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header` |
-| **RSVP - Amari (Feb 21, 2026)** | `https://invite-redirect.vercel.app/RSVP-Amari-February21-2026` | → `https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3` |
-| **RSVP - Arielle (Feb 22, 2026)** | `https://invite-redirect.vercel.app/RSVP-Arielle-February22-2026` | → `https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7` |
-| **RSVP - Macryne (April 01, 2026)** | `https://invite-redirect.vercel.app//RSVP-Marcyne-April01-2026` | → | `https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e` |
-
-## Usage
-
-Simply visit any of the "URL to Open" links above, and you will be automatically redirected to the corresponding HZ Digital Invitation form.
-
-## Note
-
-All redirects are configured as permanent (301) redirects for optimal SEO performance and caching.
+| Redirect Type                         | URL to Open                                                         | Redirects To                                                                                                     |
+| :------------------------------------ | :------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- |
+| **OCEAN BREW POS**                    | `https://invite-redirect.vercel.app/ocean-brew-pos`                 | `https://ocean-brew-order-app.vercel.app/`                                                                       |
+| **HZ WEBSITE**                        | `https://invite-redirect.vercel.app/hzdigitalinvitation`            | `https://hz-invitation-suite.vercel.app/`                                                                        |
+| **HZ WEBSITE**                        | `https://invite-redirect.vercel.app/macryne-18Birthday`             | `https://macrynes-18-birthday-4tex.vercel.app/`                                                                  |
+| **HZ DIGITAL FORM IMAGE GENERATE**    | `https://invite-redirect.vercel.app/HZ-FORM-GENERATE-IMAGE`         | `https://hzdigitalinvitation20.app.n8n.cloud/form/66814462-3450-4963-9d4d-9dafc0e3cddb`                          |
+| **HZ DIGITAL INVITATION FORM**        | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM`         | `https://hzdigitalinvitation20.app.n8n.cloud/form/46a37257-8a29-456a-a63b-baf8e14d6efb`                          |
+| **Proposal – Athena & Zee Radam**     | `https://invite-redirect.vercel.app/PROPOSAL-athena-zee-radam`      | `https://digitalinvitationhz.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3`                            |
+| **RSVP – Athena & Zee Radam**         | `https://invite-redirect.vercel.app/RSVP-athena-zee-radam`          | `https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304`                            |
+| **Proposal – Patricia (Dec 13)**      | `https://invite-redirect.vercel.app/PROPOSAL-patricia-december13`   | `https://digitalinvitationhz.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c`                            |
+| **RSVP – Patricia (Dec 13)**          | `https://invite-redirect.vercel.app/RSVP-patricia-december13`       | `https://digitalinvitationhz.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61`                            |
+| **RSVP – Mal (Dec 28)**               | `https://invite-redirect.vercel.app/RSVP-mal-december28`            | `https://digitalinvitationhz.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2`                            |
+| **RSVP – Matthew (Nov 15)**           | `https://invite-redirect.vercel.app/RSVP-matthew-november15`        | `https://digitalinvitationhz.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c`                            |
+| **Proposal – Ailene (Dec 6)**         | `https://invite-redirect.vercel.app/PROPOSAL-Ailene-December6`      | `https://digitalinvitationhz.app.n8n.cloud/form/928d502d-1f85-4158-be3e-e97121fb6d8b`                            |
+| **GODPARENTS - Rejika Sean (Dec 12)** | `https://invite-redirect.vercel.app/GODPARENTS-MaicoRej-December12` | `https://docs.google.com/forms/d/e/1FAIpQLSfX6PI-3RCmCpxe2SBLmY4lcPRu5IUBfEhJDsU51uTX36ep5g/viewform`            |
+| **RSVP - Rejika Sean (Dec 12)**       | `https://invite-redirect.vercel.app/RSVP-MaicoRej-December12`       | `https://forms.gle/w6WzmGFqZMeFUKfv6`                                                                            |
+| **RSVP - Aki (Jan 17)**               | `https://invite-redirect.vercel.app/RSVP-Aki-January17`             | `https://hhzzdigitalinvitation.app.n8n.cloud/form/b34c8d18-1a3b-4b6d-aa98-d229378365d8`                          |
+| **OCEAN BREW - Café-Staff-Interview** | `https://invite-redirect.vercel.app/Cafe-Staff-Interview`           | `https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header` |
+| **RSVP - Amari (Feb 21, 2026)**       | `https://invite-redirect.vercel.app/RSVP-Amari-February21-2026`     | `https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3`                          |
+| **RSVP - Arielle (Feb 22, 2026)**     | `https://invite-redirect.vercel.app/RSVP-Arielle-February22-2026`   | `https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7`                          |
+| **RSVP - Macryne (April 01, 2026)**   | `https://invite-redirect.vercel.app/RSVP-Macryne-April01-2026`      | `https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e`                          |
