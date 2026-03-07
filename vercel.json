@@ -1,125 +1,23 @@
 {
   "redirects": [
-    {
-      "source": "/ocean-brew-pos",
-      "destination": "https://ocean-brew-order-app.vercel.app/",
-      "permanent": true
-    },
-    {
-      "source": "/macryne-18Birthday",
-      "destination": "https://macrynes-18-birthday-4tex.vercel.app/",
-      "permanent": true
-    },
-    {
-      "source": "/hzdigitalinvitation",
-      "destination": "https://hz-invitation-suite.vercel.app/",
-      "permanent": true
-    },
-    {
-      "source": "/MASTER-HZ-DIGITAL-FORM",
-      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/46a37257-8a29-456a-a63b-baf8e14d6efb",
-      "permanent": true
-    },
-    {
-      "source": "/HZ-FORM-GENERATE-IMAGE",
-      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/66814462-3450-4963-9d4d-9dafc0e3cddb",
-      "permanent": true
-    },
-    {
-      "source": "/PROPOSAL-athena-zee-radam",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-athena-zee-radam",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304",
-      "permanent": true
-    },
-    {
-      "source": "/PROPOSAL-patricia-december13",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-patricia-december13",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-mal-december28",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-matthew-november15",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c",
-      "permanent": true
-    },
-    {
-      "source": "/PROPOSAL-Ailene-December6",
-      "destination": "https://digitalinvitationhz.app.n8n.cloud/form/928d502d-1f85-4158-be3e-e97121fb6d8b",
-      "permanent": true
-    },
-    {
-      "source": "/GODPARENTS-MaicoRej-December12",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfX6PI-3RCmCpxe2SBLmY4lcPRu5IUBfEhJDsU51uTX36ep5g/viewform",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-MaicoRej-December12",
-      "destination": "https://forms.gle/w6WzmGFqZMeFUKfv6",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-Aki-January17",
-      "destination": "https://hhzzdigitalinvitation.app.n8n.cloud/form/b34c8d18-1a3b-4b6d-aa98-d229378365d8",
-      "permanent": true
-    },
-    {
-      "source": "/Cafe-Staff-Interview",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-Amari-February21-2026",
-      "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-Arielle-February22-2026",
-      "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7",
-      "permanent": true
-    },
-    {
-      "source": "/RSVP-Marcyne-April01-2026",
-      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e",
-      "permanent": true
-    }
+    { "source": "/ocean-brew-pos", "destination": "https://ocean-brew-order-app.vercel.app/", "permanent": true },
+    { "source": "/macryne-18Birthday", "destination": "https://macrynes-18-birthday-4tex.vercel.app/", "permanent": true },
+    { "source": "/hzdigitalinvitation", "destination": "https://hz-invitation-suite.vercel.app/", "permanent": true },
+    { "source": "/MASTER-HZ-DIGITAL-FORM", "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/46a37257-8a29-456a-a63b-baf8e14d6efb", "permanent": true },
+    { "source": "/HZ-FORM-GENERATE-IMAGE", "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/66814462-3450-4963-9d4d-9dafc0e3cddb", "permanent": true },
+    { "source": "/PROPOSAL-athena-zee-radam", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/f985e89f-cda8-46bb-9ff2-6fce7ba9acb3", "permanent": true },
+    { "source": "/RSVP-athena-zee-radam", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/81ac13b7-5b2d-4e74-92c4-4082ff1d2304", "permanent": true },
+    { "source": "/PROPOSAL-patricia-december13", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/e5060332-960b-4b33-b6d0-90c2880e231c", "permanent": true },
+    { "source": "/RSVP-patricia-december13", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/cfb6f1ed-8f12-4f70-9841-46080c8bbd61", "permanent": true },
+    { "source": "/RSVP-mal-december28", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/752efd6f-a303-4f21-ba91-670e245f7ba2", "permanent": true },
+    { "source": "/RSVP-matthew-november15", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/bc65b586-6366-4e72-aa9f-8db3ce28428c", "permanent": true },
+    { "source": "/PROPOSAL-Ailene-December6", "destination": "https://digitalinvitationhz.app.n8n.cloud/form/928d502d-1f85-4158-be3e-e97121fb6d8b", "permanent": true },
+    { "source": "/GODPARENTS-MaicoRej-December12", "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfX6PI-3RCmCpxe2SBLmY4lcPRu5IUBfEhJDsU51uTX36ep5g/viewform", "permanent": true },
+    { "source": "/RSVP-MaicoRej-December12", "destination": "https://forms.gle/w6WzmGFqZMeFUKfv6", "permanent": true },
+    { "source": "/RSVP-Aki-January17", "destination": "https://hhzzdigitalinvitation.app.n8n.cloud/form/b34c8d18-1a3b-4b6d-aa98-d229378365d8", "permanent": true },
+    { "source": "/Cafe-Staff-Interview", "destination": "https://docs.google.com/forms/d/e/1FAIpQLSe1Y52fuqMxrlrB5aYmhIio97_ETcyYqjbRq3Cdp87HJvmNJA/viewform?usp=header", "permanent": true },
+    { "source": "/RSVP-Amari-February21-2026", "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3", "permanent": true },
+    { "source": "/RSVP-Arielle-February22-2026", "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7", "permanent": true },
+    { "source": "/RSVP-Macryne-April01-2026", "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e", "permanent": true }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
