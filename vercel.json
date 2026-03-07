@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/macryne-18Birthday",
+      "destination": "https://macrynes-18-birthday-4tex-git-main-hanszxs-projects.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/hzdigitalinvitation",
       "destination": "https://hz-invitation-suite.vercel.app/",
       "permanent": true
@@ -92,6 +97,7 @@
     }
   ]
 }
+
 
 
 
