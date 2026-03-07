@@ -12,7 +12,7 @@
     },
     {
       "source": "/MASTER-HZ-DIGITAL-FORM",
-      "destination": "https://hzdigitalinvitationfeb24.app.n8n.cloud/form/abb20483-7931-4cc5-ac36-5905e161a194",
+      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/46a37257-8a29-456a-a63b-baf8e14d6efb",
       "permanent": true
     },
     {
@@ -84,9 +84,15 @@
       "source": "/RSVP-Arielle-February22-2026",
       "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7",
       "permanent": true
+    },
+    {
+      "source": "/RSVP-Marcyne-April01-2026",
+      "destination": "https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e",
+      "permanent": true
     }
   ]
 }
+
 
 
 
