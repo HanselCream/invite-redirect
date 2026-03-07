@@ -10,6 +10,7 @@ Redirect Type	URL to Open	Redirects To
 | :--- | :--- | :--- |
 | **OCEAN BREW POS** | `https://invite-redirect.vercel.app/ocean-brew-pos` | → `https://ocean-brew-order-app.vercel.app/` |
 | **HZ WEBSITE** | `https://invite-redirect.vercel.app/hzdigitalinvitation` | → `https://hz-invitation-suite.vercel.app/` |
+| **HZ WEBSITE** | `https://invite-redirect.vercel.app/macryne-18Birthday` | → `https://macryne-18Birthday.vercel.app/` |
 | **HZ DIGITAL FORM IMAGE GENERATE** | `https://invite-redirect.vercel.app/HZ-FORM-GENERATE-IMAGE` | → `https://digitalinvitation.app.n8n.cloud/webhook-test/30108484-9b3e-4c89-888b-f854a1d6ca4f` |
 | **HZ DIGITAL INVITATION FORM** | `https://invite-redirect.vercel.app/MASTER-HZ-DIGITAL-FORM` | → `https://hhzzdigitalinvitation.app.n8n.cloud/form/2aed8ee0-6252-41aa-bfd5-5980c2a2cefd` |
 | **Proposal – Athena & Zee Radam** | `https://invite-redirect.vercel.app/PROPOSAL-athena-zee-radam` | → `https://hzzdigitalinvitation.app.n8n.cloud/form/17d8aba1-a103-4d2b-bb51-513fb7ff398b` |
