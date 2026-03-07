@@ -7,7 +7,7 @@
     },
     {
       "source": "/macryne-18Birthday",
-      "destination": "https://macrynes-18-birthday-4tex-git-main-hanszxs-projects.vercel.app/",
+      "destination": "https://macrynes-18-birthday-4tex.vercel.app/",
       "permanent": true
     },
     {
@@ -97,6 +97,7 @@
     }
   ]
 }
+
 
 
 
