@@ -20,7 +20,8 @@
     { "source": "/RSVP-Amari-February21-2026", "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/acd5e2e8-5207-45a0-8f91-e572492c86b3", "permanent": true },
     { "source": "/RSVP-Arielle-February22-2026", "destination": "https://hzdigitalinvitation25.app.n8n.cloud/form/12aac4c8-279f-4ad1-8452-d6be088976c7", "permanent": true },
     { "source": "/RSVP-Macryne-April01-2026", "destination": "https://hzdigital04052026.app.n8n.cloud/form/35e63094-8153-4605-bd5a-be555b272547", "permanent": true },
-    { "source": "/Hardware-Demo", "destination": "https://drive.google.com/file/d/1Kt06PxJLiQWHOfLVZnCH6x5bW5_o3uKf/view?usp=sharing", "permanent": true }
+    { "source": "/Hardware-Demo", "destination": "https://drive.google.com/file/d/1Kt06PxJLiQWHOfLVZnCH6x5bW5_o3uKf/view?usp=sharing", "permanent": true },
+    { "source": "/JOPESH-Wear-Yourself", "destination": "https://jopesh-wear-yourrself.vercel.app/", "permanent": true },
   ]
 }
 
