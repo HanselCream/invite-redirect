@@ -22,7 +22,8 @@
     { "source": "/RSVP-Macryne-April01-2026", "destination": "https://hzdigital04052026.app.n8n.cloud/form/35e63094-8153-4605-bd5a-be555b272547", "permanent": true },
     { "source": "/Hardware-Demo", "destination": "https://drive.google.com/file/d/1Kt06PxJLiQWHOfLVZnCH6x5bW5_o3uKf/view?usp=sharing", "permanent": true },
     { "source": "/Sage-1st-Birthday", "destination": "https://hzdigital2026.app.n8n.cloud/form/47f35891-2caf-4c05-ba51-0b869c311444", "permanent": true },
-    
+   
+    { "source": "/Pharamacy-Inventory", "destination": "https://pharmacy-inventory-app-coral.vercel.app", "permanent": true },
     { "source": "/IgrowponicsBulacan", "destination": "https://v0-igrowponics-web-app.vercel.app/", "permanent": true },
     
     { "source": "/JOPESH-Wear-Yourself", "destination": "https://jopesh-wear-yourrself.vercel.app/", "permanent": true }
