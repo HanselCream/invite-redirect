@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/aqua-route", "destination": "https://hzdigital2026.app.n8n.cloud/form/47f35891-2caf-4c05-ba51-0b869c311444", "permanent": true },
+    { "source": "/aqua-route", "destination": "https://automatedflow10.app.n8n.cloud/webhook/fc0381db-6022-4074-97e0-14ffd029d247", "permanent": true },
     { "source": "/ocean-brew-pos", "destination": "https://ocean-brew-order-app.vercel.app/", "permanent": true },
     { "source": "/macryne-18Birthday", "destination": "https://macrynes-18-birthday-4tex.vercel.app/", "permanent": true },
     { "source": "/hzdigitalinvitation", "destination": "https://hz-invitation-suite.vercel.app/", "permanent": true },
