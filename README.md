@@ -1,4 +1,4 @@
-| Redirect Type                         | URL to Open                                                         | Redirects To                                                                                                     |https://invite-redirect.vercel.app/aqua-route
+| Redirect Type                         | URL to Open                                                         | Redirects To                                                                                                     |
 | :------------------------------------ | :------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- |
 | **Smart RSVP QR Invitations **        | `https://invite-redirect.vercel.app/Smart-RSVP-QR-FORM`             | `https://hzdigitalinvitation20.app.n8n.cloud/form/ddba4728-5503-4983-b8d6-2ee5bf8b2916`                          |
 | **OCEAN BREW POS**                    | `https://invite-redirect.vercel.app/ocean-brew-pos`                 | `https://ocean-brew-order-app.vercel.app/`                                                                       |
@@ -22,3 +22,4 @@
 | **RSVP - Macryne (April 01, 2026)**   | `https://invite-redirect.vercel.app/RSVP-Macryne-April01-2026`      | `https://hzdigitalinvitation20.app.n8n.cloud/form/189e822b-8fd8-4ead-9383-b3aa25ff772e`                          |
 
 | **RSVP - Sage (May 10, 2026)**   | `https://invite-redirect.vercel.app/Sage-1st-Birthday`      | `https://hzdigital2026.app.n8n.cloud/form/47f35891-2caf-4c05-ba51-0b869c311444`                          |
+https://invite-redirect.vercel.app/aqua-route
